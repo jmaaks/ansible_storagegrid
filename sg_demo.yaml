@@ -6,7 +6,7 @@
     sg_vars.yaml
   vars_prompt:
     - name: grid_username
-      prompt: What is your password for StorageGRID?
+      prompt: What is your username for StorageGRID?
     - name: grid_password
       prompt: What is your password?
       private: yes
