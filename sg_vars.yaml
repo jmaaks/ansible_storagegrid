@@ -1,0 +1,6 @@
+grid_admin_base_url: https://grid_hostname_or_ip_address
+tenant_username: root
+tenant_password: changeme
+users:
+  - bill
+  - ted
